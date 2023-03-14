@@ -1,1 +1,2 @@
 # fastapi-rnn
+一个fastapi集成rnn提供时间序列预测和异常检测并提供Restful api的小项目

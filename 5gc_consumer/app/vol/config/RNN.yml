@@ -1,0 +1,54 @@
+AMF:
+  batch_first: false
+  bias: true
+  bidirectional: false
+  dropout: 0
+  hidden_size: 32
+  learning_rate: 0.01
+  nonlinearity: tanh
+  num_layers: 2
+INTERFACE:
+  batch_first: false
+  bias: true
+  bidirectional: false
+  dropout: 0
+  hidden_size: 32
+  learning_rate: 0.01
+  nonlinearity: tanh
+  num_layers: 2
+SMF:
+  batch_first: false
+  bias: true
+  bidirectional: false
+  dropout: 0
+  hidden_size: 32
+  learning_rate: 0.01
+  nonlinearity: tanh
+  num_layers: 2
+SWITCH:
+  batch_first: false
+  bias: true
+  bidirectional: false
+  dropout: 0
+  hidden_size: 32
+  learning_rate: 0.01
+  nonlinearity: tanh
+  num_layers: 2
+UDM:
+  batch_first: false
+  bias: true
+  bidirectional: false
+  dropout: 0
+  hidden_size: 32
+  learning_rate: 0.01
+  nonlinearity: tanh
+  num_layers: 2
+UPF:
+  batch_first: false
+  bias: true
+  bidirectional: false
+  dropout: 0
+  hidden_size: 32
+  learning_rate: 0.01
+  nonlinearity: tanh
+  num_layers: 2

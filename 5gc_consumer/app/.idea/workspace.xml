@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="934dfe5c-a936-4d1e-bdf1-1b72cc7cee27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/model/网元丢失日志.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/数据管道.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/数据管道.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/config/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/config/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/errors/http_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/errors/http_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/routes/events.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/routes/events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/routes/recive_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/routes/recive_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/elasticsearchwzh.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/elasticsearchwzh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/es_redis_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/es_redis_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_data/get_data_abnormal.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_data/get_data_abnormal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_data/get_data_predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_data/get_data_predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/abnormal.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/abnormal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/api/config/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/api/config/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/api/errors/http_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/api/errors/http_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/api/routes/events.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/api/routes/events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/api/routes/recive_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/api/routes/recive_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/api/routes/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/api/routes/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/db/elasticsearchwzh.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/db/elasticsearchwzh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/db/es_redis_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/db/es_redis_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/get_data/post_predict_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/get_data/post_predict_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/job_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5gc_producer/app/vol/job_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5gc_producer/app/vol/job_config.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HDYSiPd6ZRC9npcBnEmDqCqNYN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="934dfe5c-a936-4d1e-bdf1-1b72cc7cee27" name="Changes" comment="" />
+      <created>1667821123777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667821123777</updated>
+      <workItem from="1667821124853" duration="133000" />
+      <workItem from="1678792713901" duration="698000" />
+      <workItem from="1678793459950" duration="2000" />
+      <workItem from="1678793481941" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

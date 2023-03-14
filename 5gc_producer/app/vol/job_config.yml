@@ -1,0 +1,22 @@
+"""
+预测以及异常检测参数储存文件
+"""
+SubmitPredictJobRequest:
+  predict_history: 7
+  predict_method: RNN
+  predict_sleep_time: 8
+  resource_type:
+  - AMF
+  - SMF
+  - UPF
+  - UDM
+  - SWITCH
+
+SubmitAbnormalJobRequest:
+  abnormal_sleep_time: 2
+  resource_type:
+    - AMF
+    - SMF
+    - UPF
+    - UDM
+    - SWITCH

@@ -1,0 +1,11 @@
+FROM 5gc_producer
+
+WORKDIR /
+
+RUN rm -r /app
+
+COPY ./5gc_producer /
+
+ENV PYTHONPATH=/5gc_producer/app
+
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "80"]
